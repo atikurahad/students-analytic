@@ -6,7 +6,7 @@ async function main() {
   try {
     await mongoose.connect(confiq.database_url as string);
     app.listen(confiq.port, () => {
-      console.log(`Example app listening on port ${confiq.port}`);
+      console.log(`App is listening on port ${confiq.port}`);
     });
   } catch (error) {
     console.log(error);
