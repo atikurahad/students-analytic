@@ -1,0 +1,33 @@
+{
+    "id": "S123456",
+    "name": {
+      "firstName": "John",
+      "middleName": "Michael",
+      "lastName": "Doe"
+    },
+    "gender": "male",
+    "dateOfBirth": "2000-01-01",
+    "email": "john.doe@example.com",
+    "contactNo": "+1234567890",
+    "emergencyContactNo": "+1987654321",
+    "bloodGroup": "O+",
+    "presentAddress": "123 Main St, Springfield, IL, USA",
+    "permanentAddress": "456 Oak Ave, Springfield, IL, USA",
+    "guardian": {
+      "fatherName": "Richard Doe",
+      "fatherOccupation": "Engineer",
+      "fatherContactNo": "+1123456789",
+      "motherName": "Jane Doe",
+      "motherOccupation": "Doctor",
+      "motherContactNo": "+1098765432"
+    },
+    "localGuardian": {
+      "name": "Mary Johnson",
+      "occupation": "Teacher",
+      "contactNo": "+1987654321",
+      "address": "789 Maple Rd, Springfield, IL, USA"
+    },
+    "profileImg": "http://example.com/path/to/profile.jpg",
+    "isActive": "active"
+  }
+  
